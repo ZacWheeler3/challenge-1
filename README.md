@@ -1,5 +1,9 @@
 # Challenge 1
 
+## Description 
+
+A marketing agency has a great start with their website, but it could use a little more organziation and accessibility. I went through the HTML and CSS to see what I could clean up using the knowledge I have learned in class. 
+
 ## User Story
 
 AS A marketing agency
